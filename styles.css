@@ -1,0 +1,137 @@
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    font-size: x-large;
+}
+form {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-size: x-large;
+}
+.form-group {
+    margin-bottom: 20px;
+    font-size: x-large;
+}
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+input[type="text"],
+input[type="email"],
+input[type="tel"] {
+    width: 100%;
+    padding: 10px;
+    font-size: x-large;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+button[type="submit"],
+a {
+    display: inline-block;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: x-large;
+
+}
+
+button[type="submit"]:hover,
+a:hover {
+    background-color: #0056b3;
+    font-size: x-large;
+}
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    font-size: x-large;
+}
+
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-size: x-large;
+
+}
+
+.form-group {
+    margin-bottom: 20px;
+    font-size: x-large;
+
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    font-size: x-large;
+
+}
+
+textarea {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: x-large;
+
+}
+
+select {
+    width: 100%;
+    padding: 10px;
+    
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    appearance: none; 
+}
+.checkbox-label {
+    font-size: x-large;
+
+}
+#file {
+    font-size: x-large;
+
+}
+
+
+.radio-label {    font-size: x-large;
+
+    margin-right: 10px;
+}
+
+button[type="submit"],
+a {
+    display: inline-block;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-size: x-large;
+}
+select option {
+    font-size: x-large; 
+}
+select {
+    font-size: x-large;
+}
+option{
+    font-size: x-large;
+}
